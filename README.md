@@ -1,6 +1,5 @@
 # msgqueue
 
-First compasition in the child branch
 
 
 global class DeleteMsgQueueRecordsBatch implements Database.Batchable<sObject>{
